@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    transition: 0.2s linear;
+}
+
+.navigation_bar_deetstory {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation_bar_deetstory_inside_1 {
+    margin: 2rem 0rem;
+}
+
+.navigation_bar_deetstory_inside_2 {
+    padding: 1rem 1rem;
+    background-color: rgb(16, 16, 255);
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+.navigation_bar_deetstory_inside_2:hover {
+    background-color: rgb(4, 4, 189);
+    color: white;
+}
+
+.deetmeter_first_section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.deetmeter_first_section_inside_1 {
+    font-size: 1.5rem;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    /* font-family: 'Sansita Swashed', cursive;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Source Sans Pro', sans-serif; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.deetmeter_form_section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.deetmeter_form_section_main_form{
+    border: 0.1px solid black;
+    padding: 2rem 2rem;
+}
+
+
+
+
+
+
+.deetmeter_form_section_main_form_input_section_inside_1 , .deetmeter_form_section_main_form_input_section_inside_2 , .deetmeter_form_section_main_form_input_section_inside_3 , .deetmeter_form_section_main_form_input_section_inside_4 , .deetmeter_test_name_class{
+    font-size: 1.1rem;
+    color: rgb(0, 0, 0);
+    margin: 0.5rem 0rem;
+}
+.username_field_1 , .user_email_class_1 , .age_meter_class , .male_field_check_class , .female_field_check_class , .infant_field_check_class , .test_type_1_class , .test_type_2_class{
+    font-size: 1.1rem;
+    padding: 0.2rem 0.2rem;
+    margin: 0.5rem 0remm;
+}
+.username_field_1 , .user_email_class_1{
+    border: none;
+    outline: none;
+    border-bottom: 0.1px solid black;
+}
+.form_section_button{
+    border: none;
+    background-color: transparent;
+    border: 0.1px solid black;
+    padding: 0.7rem 1rem;
+    color: white ;
+    background-color: black;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    margin: 1rem 0rem 0rem 0rem;
+    transition: 0.1s linear;
+    cursor: pointer;
+}
+.form_section_button:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.heading_deetmeter_class{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading_deetmeter_class_division{
+    font-size: 2rem;
+    margin: 0rem 0rem;
+    padding: 2rem 0.3rem 1rem 0.3rem;
+    text-align: center;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Sansita Swashed', cursive;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    letter-spacing: 0.2rem;
+    color: rgb(0, 0, 0);
+}
