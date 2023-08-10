@@ -1,0 +1,71 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    transition: 0.2s linear;
+}
+
+.third_test_container_inside_1_para , .third_test_final_data{
+    margin: 0.5rem 0rem;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    /* font-family: 'Sansita Swashed', cursive;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Source Sans Pro', sans-serif; */
+}
+.third_test_final_data{
+    padding: 0.2rem 0.2rem;
+}
+.third_test_section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.third_test_container{
+    border: 0.1px solid black;
+    padding: 1rem 1rem;
+    margin: 1rem 0rem 0rem 0rem;
+}
+.third_test_section_inside_2{
+    margin: 1rem 0rem 0rem 0rem;
+}
+.third_test_section_inside_2_horizontal_rule{
+    margin: 0rem 1rem;
+}
+.third_test_section_inside_2_para_1 , .third_test_section_inside_2_para_2{
+    margin: 0.5rem 0rem;
+    font-family: 'Arvo', serif;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    /* font-family: 'Sansita Swashed', cursive;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Source Sans Pro', sans-serif; */
+}
+.third_test_status_color1{
+    color: rgb(4, 189, 4);
+}
+.third_test_status_color2{
+    color: rgb(243, 23, 8);
+}
