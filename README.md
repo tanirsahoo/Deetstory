@@ -7,5 +7,7 @@
 
 ## Technology Stack
 <img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/f3ef3209-0eb0-45d0-981d-d19939b6a0ff" height=40 width=40>
+
+### Languages
 <img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/e2331e55-8f4e-4231-8f95-bc11e00ed2de" height=40 width=40>
 <img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/bc6630ee-9908-48af-8879-a6b1176e3dfe" height=40 width=60>
