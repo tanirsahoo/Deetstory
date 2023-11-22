@@ -13,6 +13,6 @@
 
 
 ### Languages
-<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/e2331e55-8f4e-4231-8f95-bc11e00ed2de" height=40 width=40>
-<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/bc6630ee-9908-48af-8879-a6b1176e3dfe" height=40 width=60>
-<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/2681d959-80e3-423e-b14a-d4df4a234e34" height=40 width=80>
+<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/e2331e55-8f4e-4231-8f95-bc11e00ed2de" height=50 width=50>
+<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/bc6630ee-9908-48af-8879-a6b1176e3dfe" height=50 width=70>
+<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/2681d959-80e3-423e-b14a-d4df4a234e34" height=50 width=100>
