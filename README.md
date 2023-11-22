@@ -6,7 +6,11 @@
 <img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/ea56ca3f-03b3-4d0f-9d6f-060dc61c497c" height=40 width=40><br>
 
 ## Technology Stack
+### Softwares
 <img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/f3ef3209-0eb0-45d0-981d-d19939b6a0ff" height=40 width=40>
+<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/23c23dd1-023a-413b-8c27-120fc56b7af8" height=40 width=70>
+
+
 
 ### Languages
 <img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/e2331e55-8f4e-4231-8f95-bc11e00ed2de" height=40 width=40>
