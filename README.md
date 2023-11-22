@@ -8,7 +8,7 @@
 ## Technology Stack
 ### Softwares
 <img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/f3ef3209-0eb0-45d0-981d-d19939b6a0ff" height=40 width=40>
-<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/23c23dd1-023a-413b-8c27-120fc56b7af8" height=40 width=70>
+<img src="https://github.com/Subhankar-Ray192/Deetstory/assets/91007834/70433b7f-e07f-40d4-9176-d388c6a1f2ec" height=40 width=70>
 
 
 
